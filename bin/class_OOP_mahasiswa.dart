@@ -62,10 +62,10 @@ class MahasiswaAktif extends Mahasiswa implements Pendaftaran {
 void main() {
   // Buat object mahasiswa biasa
   var mhs1 = Mahasiswa(
-    nama: "Budi Santoso",
-    nim: "123456",
-    jurusan: "Informatika",
-    angkatan: 2022,
+    nama: "Helen Oktaviani",
+    nim: "1123150205",
+    jurusan: "Teknik Informatika",
+    angkatan: 2023,
   );
   mhs1.tampilkanData();
   print("----------");
